@@ -1,7 +1,7 @@
 import React from 'react';
 import "../App.css"
 
-const About = () => {
+const Home = () => {
     return (
         <div className="hero-image">
         <div className="hero-text">
@@ -14,4 +14,4 @@ const About = () => {
     )
 }
 
-export default About;
+export default Home;
